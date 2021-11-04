@@ -22,7 +22,7 @@ This assingment was to convert the Multi-tool into a drawing and then export it 
 
 ### Evidence
 
-<img src="MultiPartDrawing.png" alt="MultiToolPart1" width="450">
+<img src="MultiToolDrawing.png" alt="MultiToolDrawing" width="450">
 
 
 #### Reflection
