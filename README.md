@@ -8,7 +8,7 @@ This assingment was to build the fist part of a multi tool using onshape.
 
 ### Evidence
 
-<img src="Multi1" alt="MultiToolPart1" width="450">
+<img src="Multi1.png" alt="MultiToolPart1" width="450">
 
 #### Reflection
 
