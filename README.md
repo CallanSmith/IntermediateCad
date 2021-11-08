@@ -28,3 +28,18 @@ This assingment was to convert the Multi-tool into a drawing and then export it 
 #### Reflection
 
 The biggest problem I ran into is when I exported the drawing into the Print me google doc, the curved line would go away. This is just a visual thing, and not a problem. The line is so thin that it doesn't show up but It is still good to be printed.
+
+## Multi-Tool-3 Editing and assembly
+
+### Description
+
+This assingment was to add a wrench in the multi tool using a bolt inserted in assembly. This was done with editing in context
+
+### Evidence
+
+<img src="MultiToolWrench.png" alt="MultiToolWrench" width="450">
+
+
+#### Reflection
+
+When I tryed to extrude remove the bolt shape, the bolt from assembly kept getting in the way. To fix this, I just used the edge lines of the bolt, and deleted the bolt in assemnbly.
